@@ -1,4 +1,4 @@
-**Step 1:** [Download](https://github.com/yashheda5/Counter-App-Using-React-and-Tailwind-CSS/archive/refs/heads/main.zip) this repo as a zip
+**Step 1:** [Download](https://github.com/yashheda5/Study-Notion-Login-Page-using-React/archive/refs/heads/main.zip) this repo as a zip
 
 **Step 2:** To run:
 
